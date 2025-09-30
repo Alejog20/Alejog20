@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Alejandro Garcia 🇨🇴</h1>
+  <h1>Alejandro Garcia <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/co.svg" alt="Colombia Flag" width="24"/></h1>
   <strong>Analyst & Full-Stack Developer | Python, JavaScript, and Java Specialist</strong>
 </div>
 <br>
