@@ -68,7 +68,7 @@ I am an analyst and software developer with a core passion for developing high-p
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>CSV EDI File Processor</h3>
+      <h3>CSV File Processor</h3>
       <p>A production-ready Python tool that automates the processing CSV files to XLSX. It monitors Downloads directory, validates data integrity with Pandas, and handles archives, showcasing robust error handling and efficient data pipeline construction.</p>
       <p>
         <a href="https://github.com/Alejog20/csv-processor"><strong>View on GitHub &rarr;</strong></a>
