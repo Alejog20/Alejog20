@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="mailto:garciaalejandro2552@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=red" alt="Email">
   </a>
   <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
