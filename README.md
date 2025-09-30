@@ -12,7 +12,7 @@
   <a href="mailto:garciaalejandro2552@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
   </a>
-  <a href="https://linkedin.com/in/alejandro-garcia-38a9339a" target="blank">
+  <a href="https://linkedin.com/in/alejandro-garcia-38a9339a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
