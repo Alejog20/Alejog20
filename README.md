@@ -17,7 +17,7 @@
 
 ### About Me
 
-I am a versatile software engineer with a core passion for developing high-performance backend systems and intelligent data solutions. My expertise spans from building robust Python automation tools to architecting scalable APIs and dynamic front-end interfaces. I thrive on transforming complex requirements into clean, efficient, and well-documented code, whether I'm handling large datasets, developing RESTful services, or creating interactive user experiences, I also have knowledge with Data Analytics and ML algorithms.
+I am an analyst and software developer with a core passion for developing high-performance backend systems and intelligent data solutions. My expertise spans from building robust Python automation tools to architecting scalable APIs and dynamic front-end interfaces. I thrive on transforming complex requirements into clean, efficient, and well-documented code, whether I'm handling large datasets, developing RESTful services, or creating interactive user experiences, I also have knowledge with Data Analytics and ML algorithms.
 
 <br>
 
