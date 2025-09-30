@@ -5,7 +5,7 @@
 <br>
 
 <details>
-<summary><strong>:us: English Version</strong></summary>
+<summary><strong>:us: EN Version</strong></summary>
 <br>
 
 <div align="center">
