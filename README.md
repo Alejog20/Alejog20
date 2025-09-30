@@ -52,7 +52,6 @@ I am an analyst and software developer with a core passion for developing high-p
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
     </td>
     <td valign="top" width="50%">
-    <td valign="top" width="50%">
       <strong>Tools & Platforms</strong><br><br>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
