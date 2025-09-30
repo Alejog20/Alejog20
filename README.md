@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Alejandro Garcia</h1>
-  <strong>Full-Stack & Data Engineer | Python, JavaScript, and Java Specialist</strong>
+  <strong>Full-Stack Developer | Python, JavaScript, and Java Specialist</strong>
 </div>
 <br>
 
@@ -17,7 +17,7 @@
 
 ### About Me
 
-I am a versatile software engineer with a core passion for developing high-performance backend systems and intelligent data solutions. My expertise spans from building robust Python automation tools to architecting scalable APIs and dynamic front-end interfaces. I thrive on transforming complex requirements into clean, efficient, and well-documented code, whether I'm handling large datasets, developing RESTful services, or creating interactive user experiences.
+I am a versatile software engineer with a core passion for developing high-performance backend systems and intelligent data solutions. My expertise spans from building robust Python automation tools to architecting scalable APIs and dynamic front-end interfaces. I thrive on transforming complex requirements into clean, efficient, and well-documented code, whether I'm handling large datasets, developing RESTful services, or creating interactive user experiences, I also have knowledge with Data Analytics and ML algorithms.
 
 <br>
 
@@ -67,14 +67,14 @@ I am a versatile software engineer with a core passion for developing high-perfo
   <tr>
     <td width="50%" valign="top">
       <h3>CSV EDI File Processor</h3>
-      <p>A production-ready Python tool that automates the processing of EDI files. It monitors a directory, validates data integrity with Pandas, and handles archives, showcasing robust error handling and efficient data pipeline construction.</p>
+      <p>A production-ready Python tool that automates the processing CSV files to XLSX. It monitors Downloads directory, validates data integrity with Pandas, and handles archives, showcasing robust error handling and efficient data pipeline construction.</p>
       <p>
         <a href="https://github.com/Alejog20/csv-processor"><strong>View on GitHub &rarr;</strong></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Full-Stack Application (Placeholder)</h3>
-      <p><i>This is a placeholder. Describe your best full-stack project here. For example: "A web application for inventory management, featuring a React/TypeScript front-end, a secure FastAPI/Java Spring backend, and a SQL database."</i></p>
+      <h3>Contribution for Full Stack Ecommerce App</h3>
+      <p><i>This collaborative project uses Java and Spring in backend and Vanilla JS in the frontend. The project is a functional marketplace focused on Colombian indigenous products"</i></p>
       <p>
         <a href="#"><strong>View on GitHub &rarr;</strong></a>
       </p>
