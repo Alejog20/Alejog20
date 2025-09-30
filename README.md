@@ -9,15 +9,13 @@
 <br>
 
 <div align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <a href="mailto:garciaalejandro2552@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
+  </a>
+  <a href="https://linkedin.com/in/alejandro-garcia-38a9339a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
-
----
 
 ### About Me
 
@@ -61,22 +59,22 @@ I am an analyst and software developer with a core passion for developing high-p
 ### Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>CSV File Processor</h3>
-      <p>A production-ready Python tool that automates the processing CSV files to XLSX. It monitors Downloads directory, validates data integrity with Pandas, and handles archives, showcasing robust error handling and efficient data pipeline construction.</p>
-      <p>
-        <a href="https://github.com/Alejog20/csv-processor"><strong>View on GitHub &rarr;</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Contribution for Full Stack Ecommerce App</h3>
-      <p><i>This collaborative project uses Java and Spring in backend and Vanilla JS in the frontend. The project is a functional marketplace focused on Colombian indigenous products"</i></p>
-      <p>
-        <a href="#"><strong>View on GitHub &rarr;</strong></a>
-      </p>
-    </td>
-  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>CSV File Processor</h3>
+      <p>A production-ready Python tool that automates the processing CSV files to XLSX. It monitors Downloads directory, validates data integrity with Pandas, and handles archives, showcasing robust error handling and efficient data pipeline construction.</p>
+      <p>
+        <a href="https://github.com/Alejog20/csv-processor"><strong>View on GitHub &rarr;</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Contribution for Full Stack Ecommerce App</h3>
+      <p><i>This collaborative project uses Java and Spring in backend and Vanilla JS in the frontend. The project is a functional marketplace focused on Colombian indigenous products"</i></p>
+      <p>
+        <a href="#"><strong>View on GitHub &rarr;</strong></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 </details>
@@ -88,19 +86,19 @@ I am an analyst and software developer with a core passion for developing high-p
 <br>
 
 <div align="center">
-  <a href="mailto:tu-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contáctame-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/tu-perfil-de-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <a href="mailto:garciaalejandro2552@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contáctame-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/alejandro-garcia-38a9339a">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
 
 ---
 
 ### Sobre Mí
 
-Soy un analista y desarrollador de software con una pasión por crear sistemas de backend de alto rendimiento y soluciones de datos inteligentes. Mi experiencia abarca desde la construcción de robustas herramientas de automatización en Python hasta la arquitectura de APIs escalables e interfaces de usuario dinámicas. Me dedico a transformar requerimientos complejos en código limpio, eficiente y bien documentado, ya sea manejando grandes volúmenes de datos, desarrollando servicios RESTful o creando experiencias de usuario interactivas. También tengo conocimientos en Análisis de Datos y algoritmos de Machine Learning. 
+Soy un analista y desarrollador de software con una pasión por crear sistemas de backend de alto rendimiento y soluciones de datos inteligentes. Mi experiencia abarca desde la construcción de robustas herramientas de automatización en Python hasta la arquitectura de APIs escalables e interfaces de usuario dinámicas. Me dedico a transformar requerimientos complejos en código limpio, eficiente y bien documentado, ya sea manejando grandes volúmenes de datos, desarrollando servicios RESTful o creando experiencias de usuario interactivas. También tengo conocimientos en Análisis de Datos y algoritmos de Machine Learning. 
 
 <br>
 
@@ -140,22 +138,22 @@ Soy un analista y desarrollador de software con una pasión por crear sistemas d
 ### Proyectos Destacados
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Procesador de Archivos CSV</h3>
-      <p>Herramienta de nivel profesional en Python que automatiza el procesamiento de archivos CSV a XLSX. Monitorea el directorio de Descargas, valida la integridad de los datos con Pandas y maneja archivos comprimidos, demostrando un robusto manejo de errores y una construcción eficiente de pipelines de datos.</p>
-      <p>
-        <a href="https://github.com/Alejog20/csv-processor"><strong>Ver en GitHub &rarr;</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Contribución en App Ecommerce Full Stack</h3>
-      <p><i>Este proyecto colaborativo usa Java y Spring en el backend y Vanilla JS en el frontend. El proyecto es un marketplace funcional enfocado en productos de comunidades indígenas de Colombia.</i></p>
-      <p>
-        <a href="#"><strong>Ver en GitHub &rarr;</strong></a>
-      </p>
-    </td>
-  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Procesador de Archivos CSV</h3>
+      <p>Herramienta de nivel profesional en Python que automatiza el procesamiento de archivos CSV a XLSX. Monitorea el directorio de Descargas, valida la integridad de los datos con Pandas y maneja archivos comprimidos, demostrando un robusto manejo de errores y una construcción eficiente de pipelines de datos.</p>
+      <p>
+        <a href="https://github.com/Alejog20/csv-processor"><strong>Ver en GitHub &rarr;</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Contribución en App Ecommerce Full Stack</h3>
+      <p><i>Este proyecto colaborativo usa Java y Spring en el backend y Vanilla JS en el frontend. El proyecto es un marketplace funcional enfocado en productos de comunidades indígenas de Colombia.</i></p>
+      <p>
+        <a href="#"><strong>Ver en GitHub &rarr;</strong></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 </details>
@@ -177,6 +175,3 @@ Soy un analista y desarrollador de software con una pasión por crear sistemas d
 </table>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejog20&layout=compact&theme=transparent&hide_border=true" alt="Top Languages">
 </div>
-
-
-
