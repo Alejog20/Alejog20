@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Alejandro Garcia</h1>
-  <strong>Analyst & Full-Stack Developer | Python, JavaScript, and Java Specialist</strong>
+  <strong>Analyst & Full-Stack Developer</strong>
 </div>
 <br>
 
