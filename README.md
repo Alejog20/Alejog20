@@ -68,7 +68,7 @@ When I'm not at the keyboard, I'm an amateur photographer who loves capturing mo
       <h3>CSV File Processor</h3>
       <p>A production-ready Python tool that automates the processing CSV files to XLSX. It monitors Downloads directory, validates data integrity with Pandas, and handles archives, showcasing robust error handling and efficient data pipeline construction.</p>
       <p>
-        <a href="https://github.com/Alejog20/csv-processor"><strong>View on GitHub &rarr;</strong></a>
+        <a href="https://github.com/Alejog20/download-autoprocessor"><strong>View on GitHub &rarr;</strong></a>
       </p>
     </td>
     <td width="50%" valign="top">
