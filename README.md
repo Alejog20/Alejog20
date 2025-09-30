@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Alejandro Garcia</h1>
-  <strong>Full-Stack Developer | Python, JavaScript, and Java Specialist</strong>
+  <strong>Analyst & Full-Stack Developer | Python, JavaScript, and Java Specialist</strong>
 </div>
 <br>
 
@@ -95,7 +95,7 @@ I am an analyst and software developer with a core passion for developing high-p
 <hr>
 
 <details>
-<summary><strong>:es: Versión en Español</strong></summary>
+<summary><strong>:es: ES Versión</strong></summary>
 <br>
 
 <div align="center">
@@ -111,7 +111,7 @@ I am an analyst and software developer with a core passion for developing high-p
 
 ### Sobre Mí
 
-Soy un analista y desarrollador de software con una pasión central por crear sistemas de backend de alto rendimiento y soluciones de datos inteligentes. Mi experiencia abarca desde la construcción de robustas herramientas de automatización en Python hasta la arquitectura de APIs escalables e interfaces de usuario dinámicas. Me dedico a transformar requerimientos complejos en código limpio, eficiente y bien documentado, ya sea manejando grandes volúmenes de datos, desarrollando servicios RESTful o creando experiencias de usuario interactivas. También tengo conocimientos en Análisis de Datos y algoritmos de Machine Learning.
+Soy un analista y desarrollador de software con una pasión por crear sistemas de backend de alto rendimiento y soluciones de datos inteligentes. Mi experiencia abarca desde la construcción de robustas herramientas de automatización en Python hasta la arquitectura de APIs escalables e interfaces de usuario dinámicas. Me dedico a transformar requerimientos complejos en código limpio, eficiente y bien documentado, ya sea manejando grandes volúmenes de datos, desarrollando servicios RESTful o creando experiencias de usuario interactivas. También tengo conocimientos en Análisis de Datos y algoritmos de Machine Learning. 
 
 <br>
 
