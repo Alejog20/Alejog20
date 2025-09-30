@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Alejandro Garcia <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/co.svg" alt="Colombia Flag" width="24"/></h1>
-  <strong>Analyst & Full-Stack Developer | Python, JavaScript, and Java Specialist</strong>
+  <strong>Analyst & Full-Stack Developer | I create impactful solutions using Python, JavaScript, and Java </strong>
 </div>
 <br>
 
@@ -75,7 +75,7 @@ When I'm not at the keyboard, I'm an amateur photographer who loves capturing mo
       <h3>Contribution for Full Stack Ecommerce App</h3>
       <p><i>This collaborative project uses Java and Spring in backend and Vanilla JS in the frontend. The project is a functional marketplace focused on Colombian indigenous products"</i></p>
       <p>
-        <a href="#"><strong>View on GitHub &rarr;</strong></a>
+        <a href="https://github.com/JorgeRamirez2018/Proyecto-Samay"><strong>View on GitHub &rarr;</strong></a>
       </p>
     </td>
   </tr>
@@ -94,7 +94,7 @@ When I'm not at the keyboard, I'm an amateur photographer who loves capturing mo
     <img src="https://img.shields.io/badge/Email-Contáctame-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://linkedin.com/in/alejandro-garcia-38a9339a">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn">
   </a>
 </div>
 
@@ -156,7 +156,7 @@ Cuando no estoy frente al teclado, soy un fotógrafo aficionado al que le encant
       <h3>Contribución en App Ecommerce Full Stack</h3>
       <p><i>Este proyecto colaborativo usa Java y Spring en el backend y Vanilla JS en el frontend. El proyecto es un marketplace funcional enfocado en productos de comunidades indígenas de Colombia.</i></p>
       <p>
-        <a href="#"><strong>Ver en GitHub &rarr;</strong></a>
+        <a href="https://github.com/JorgeRamirez2018/Proyecto-Samay""><strong>Ver en GitHub &rarr;</strong></a>
       </p>
     </td>
   </tr>
