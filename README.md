@@ -17,9 +17,13 @@
   </a>
 </div>
 
+---
+
 ### About Me
 
-I am an analyst and software developer with a core passion for developing high-performance backend systems and intelligent data solutions. My expertise spans from building robust Python automation tools to architecting scalable APIs and dynamic front-end interfaces. I thrive on transforming complex requirements into clean, efficient, and well-documented code, whether I'm handling large datasets, developing RESTful services, or creating interactive user experiences, I also have knowledge with Data Analytics and ML algorithms.
+I am an analyst and software developer passionate about building high-performance backend systems and intelligent data solutions. I thrive on transforming complex requirements into clean, efficient code, whether I'm architecting scalable APIs, developing RESTful services, or implementing ML algorithms.
+
+When I'm not at the keyboard, I'm an amateur photographer who loves capturing moments during outdoor activities and enjoying quality time with my family. This balance between analytical thinking and creative pursuits fuels my approach to problem-solving.
 
 <br>
 
@@ -98,7 +102,9 @@ I am an analyst and software developer with a core passion for developing high-p
 
 ### Sobre Mí
 
-Soy un analista y desarrollador de software con una pasión por crear sistemas de backend de alto rendimiento y soluciones de datos inteligentes. Mi experiencia abarca desde la construcción de robustas herramientas de automatización en Python hasta la arquitectura de APIs escalables e interfaces de usuario dinámicas. Me dedico a transformar requerimientos complejos en código limpio, eficiente y bien documentado, ya sea manejando grandes volúmenes de datos, desarrollando servicios RESTful o creando experiencias de usuario interactivas. También tengo conocimientos en Análisis de Datos y algoritmos de Machine Learning. 
+Soy un analista y desarrollador de software apasionado por crear sistemas de backend de alto rendimiento y soluciones de datos inteligentes. Me dedico a transformar requerimientos complejos en código limpio y eficiente, ya sea arquitecturando APIs escalables, desarrollando servicios RESTful o implementando algoritmos de Machine Learning.
+
+Cuando no estoy frente al teclado, soy un fotógrafo aficionado al que le encanta capturar momentos durante actividades al aire libre y disfrutar de tiempo de calidad con mi familia. Este balance entre el pensamiento analítico y las actividades creativas impulsa mi manera de resolver problemas.
 
 <br>
 
@@ -158,7 +164,7 @@ Soy un analista y desarrollador de software con una pasión por crear sistemas d
 
 </details>
 
----
+<hr>
 
 ### GitHub Statistics
 
