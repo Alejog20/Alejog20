@@ -149,7 +149,7 @@ Cuando no estoy frente al teclado, soy un fotógrafo aficionado al que le encant
       <h3>Procesador de Archivos CSV</h3>
       <p>Herramienta de nivel profesional en Python que automatiza el procesamiento de archivos CSV a XLSX. Monitorea el directorio de Descargas, valida la integridad de los datos con Pandas y maneja archivos comprimidos, demostrando un robusto manejo de errores y una construcción eficiente de pipelines de datos.</p>
       <p>
-        <a href="https://github.com/Alejog20/csv-processor"><strong>Ver en GitHub &rarr;</strong></a>
+        <a href="https://github.com/Alejog20/download-autoprocessor"><strong>Ver en GitHub &rarr;</strong></a>
       </p>
     </td>
     <td width="50%" valign="top">
