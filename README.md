@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Alejandro Garcia</h1>
-  <strong>Analyst & Full-Stack Developer</strong>
+  <strong>Analyst & Full-Stack Developer | Python, JavaScript, and Java Specialist</strong>
 </div>
 <br>
 
@@ -9,13 +9,15 @@
 <br>
 
 <div align="center">
-  <a href="mailto:garciaalejandro2552@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/alejandro-garcia-38a9339a">
+  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
+
+---
 
 ### About Me
 
@@ -175,4 +177,3 @@ Soy un analista y desarrollador de software con una pasión por crear sistemas d
 </table>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejog20&layout=compact&theme=transparent&hide_border=true" alt="Top Languages">
 </div>
-
