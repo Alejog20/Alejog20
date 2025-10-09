@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Alejandro García |  `<img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/co.svg" alt="Colombia Flag" width="24">` </h1>
-  <H2> Ananalyst & Developer</H2>
+  <H2>Alejandro García | Analyst & Developer  </H2>
 </div>
 <br>
 
