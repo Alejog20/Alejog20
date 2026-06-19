@@ -1,5 +1,5 @@
 <div align="center">
-  <H2>Alejandro García | Analyst & Developer  </H2>
+  <H2>Alejandro García | Python Developer  </H2>
 </div>
 <br>
 
