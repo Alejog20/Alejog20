@@ -1,0 +1,34 @@
+name: GitHub-Profile-Summary-Cards
+
+# Save this file as: .github/workflows/profile-summary-cards.yml
+# (the folder path matters — GitHub only picks up workflows from .github/workflows/)
+
+on:
+  schedule:
+    # Once a week, Monday 12:00 UTC. Static cards don't need to update
+    # more often than that, and it keeps this from adding a commit to
+    # your repo every single day.
+    - cron: "0 10 * * 1"
+  workflow_dispatch: # lets you trigger it manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Must match the name of the repo secret you create in
+          # Settings -> Secrets and variables -> Actions
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          # Bogotá is UTC-5. Only affects the optional productive-time card.
+          UTC_OFFSET: -5
+          EXCLUDE: ""
+          AUTO_PUSH: true
