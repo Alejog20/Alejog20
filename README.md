@@ -1,5 +1,5 @@
 <div align="center">
-  <H2>Alejandro García | Python Developer  </H2>
+  <H2>Alejandro García | Python Developer  </H2>
 </div>
 <br>
 
@@ -93,7 +93,7 @@ When I'm not at the keyboard, I'm an amateur photographer who loves capturing mo
     <img src="https://img.shields.io/badge/Email-Contáctame-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://linkedin.com/in/alejandro-garcia-38a9339a">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
 
@@ -155,7 +155,7 @@ Cuando no estoy frente al teclado, soy un fotógrafo aficionado al que le encant
       <h3>Contribución en App Ecommerce Full Stack</h3>
       <p><i>Este proyecto colaborativo usa Java y Spring en el backend y Vanilla JS en el frontend. El proyecto es un marketplace funcional enfocado en productos de comunidades indígenas de Colombia.</i></p>
       <p>
-        <a href="https://github.com/JorgeRamirez2018/Proyecto-Samay""><strong>Ver en GitHub &rarr;</strong></a>
+        <a href="https://github.com/JorgeRamirez2018/Proyecto-Samay"><strong>Ver en GitHub &rarr;</strong></a>
       </p>
     </td>
   </tr>
@@ -167,16 +167,27 @@ Cuando no estoy frente al teclado, soy un fotógrafo aficionado al que le encant
 
 ### GitHub Statistics
 
+<!--
+  NOTE (reliability): the two cards below call the shared public
+  github-readme-stats.vercel.app instance, which anuraghazra's project
+  itself documents as "best-effort" and prone to rate limiting / pauses
+  during high-traffic periods. cache_seconds=86400 makes a successful
+  render stick around longer so a transient outage is less likely to
+  show a broken image. For a card that never depends on someone else's
+  free-tier quota (and to safely re-enable count_private), self-host
+  your own instance: https://github.com/anuraghazra/github-readme-stats#disable-rate-limit
+-->
+
 <div align="center">
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=alejog20&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Alejandro's GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=alejog20&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" alt="Alejandro's GitHub Stats">
     </td>
     <td width="50%" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejog20&theme=transparent&hide_border=true" alt="Alejandro's Contribution Streak">
+      <img src="https://streak-stats.demolab.com/?user=alejog20&theme=transparent&hide_border=true" alt="Alejandro's Contribution Streak">
     </td>
   </tr>
 </table>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejog20&layout=compact&theme=transparent&hide_border=true" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejog20&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" alt="Top Languages">
 </div>
