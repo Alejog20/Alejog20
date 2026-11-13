@@ -44,19 +44,10 @@ I work at the intersection of software development and business operations. With
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <img src="https://shields.io" alt="Python">
-      <img src="https://shields.io" alt="Java">
-      <img src="https://shields.io" alt="FastAPI">
-      <img src="https://shields.io" alt="Spring Boot">
-      <img src="https://shields.io" alt="Flask">
+      <img src="https://skillicons.dev" alt="Backend & APIs" />
     </td>
     <td align="center" valign="middle">
-      <img src="https://shields.io" alt="Pandas">
-      <img src="https://shields.io" alt="NumPy">
-      <img src="https://shields.io" alt="SQL">
-      <img src="https://shields.io" alt="Scikit-learn">
-      <img src="https://shields.io" alt="PyTorch">
-      <img src="https://shields.io" alt="Power BI">
+      <img src="https://skillicons.dev" alt="Data & Analytics" />
     </td>
   </tr>
   <tr>
@@ -65,21 +56,15 @@ I work at the intersection of software development and business operations. With
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <img src="https://shields.io" alt="React">
-      <img src="https://shields.io" alt="TypeScript">
-      <img src="https://shields.io" alt="JavaScript">
-      <img src="https://shields.io" alt="HTML5">
-      <img src="https://shields.io" alt="CSS3">
+      <img src="https://skillicons.dev" alt="Frontend" />
     </td>
     <td align="center" valign="middle">
-      <img src="https://shields.io" alt="Git">
-      <img src="https://shields.io" alt="Linux">
-      <img src="https://shields.io" alt="Bash">
-      <img src="https://shields.io" alt="Selenium">
+      <img src="https://skillicons.dev" alt="Tools & Environment" />
     </td>
   </tr>
 </table>
 </div>
+
 
 <br>
 
