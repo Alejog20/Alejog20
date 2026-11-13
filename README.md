@@ -3,13 +3,13 @@
 # Alejandro García
 **Software Engineer · Python Automation & Data Systems**
 
-*Turning complex requirements into quiet machinery — automating workflows, architecting scalable APIs, and building intelligent data pipelines.*
+Backend developer and data analyst based in Bogotá. I build Python automation, APIs, and data pipelines that cut manual work and keep reporting reliable.
 
 <p>
   <a href="https://garcia-dev.co" target="_blank">
-    <img src="https://shields.io" alt="Portfolio Website">
+    <img src="https://shields.io" alt="Portfolio">
   </a>
-  <a href="https://linkedin.com/in/alejandro-garcia-38a9339a" target="_blank">
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn">
   </a>
   <a href="mailto:garciaalejandro2552@gmail.com">
@@ -22,81 +22,88 @@
 ---
 
 <details open>
-<summary><strong>🇺🇸 English Version</strong> <em>(Click to collapse)</em></summary>
+<summary><strong>🇺🇸 English</strong></summary>
 <br>
 
-### 👨‍💻 About Me
+### About Me
 
-I am an analyst and software developer based in Bogotá, Colombia, focused on building high-performance backend systems, data pipelines, and process automation. With a background bridging **International Business** and **Software Engineering**, I specialize in translating operational bottlenecks into clean, maintainable code—cutting manual hours and delivering reliable data architectures.
+I work at the intersection of software development and business operations. With a degree in International Business and hands-on experience in backend engineering, I focus on automating repetitive financial workflows, integrating client data systems, and maintaining clean reporting pipelines.
 
-* **Core Focus:** Python Automation, RESTful APIs, ETL/Data Pipelines, and Machine Learning integration.
-* **Beyond the Keyboard:** Amateur photographer capturing outdoor moments, cinema enthusiast, and spending quality time with my family.
+* **Day-to-day work:** Python automation, EDI integrations, REST APIs, and SQL/Pandas data modeling.
+* **Outside of work:** Photography, cinema, and spending time outdoors with family.
 
 <br>
 
-### 🛠️ Technical Toolkit
+### Technical Toolkit
 
+<div align="center">
 <table width="100%">
   <tr>
-    <th width="33%" align="center">Backend & APIs</th>
-    <th width="33%" align="center">Frontend</th>
-    <th width="34%" align="center">Data, ML & DevOps</th>
+    <th width="50%" align="center">Backend & APIs</th>
+    <th width="50%" align="center">Data & Analytics</th>
   </tr>
   <tr>
-    <td valign="top" align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"><br>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"><br>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"><br>
-      <img src="https://shields.io" alt="Spring Boot"><br>
+    <td align="center" valign="middle">
+      <img src="https://shields.io" alt="Python">
+      <img src="https://shields.io" alt="Java">
+      <img src="https://shields.io" alt="FastAPI">
+      <img src="https://shields.io" alt="Spring Boot">
       <img src="https://shields.io" alt="Flask">
     </td>
-    <td valign="top" align="center">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"><br>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"><br>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"><br>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <td align="center" valign="middle">
+      <img src="https://shields.io" alt="Pandas">
+      <img src="https://shields.io" alt="NumPy">
+      <img src="https://shields.io" alt="SQL">
+      <img src="https://shields.io" alt="Scikit-learn">
+      <img src="https://shields.io" alt="PyTorch">
+      <img src="https://shields.io" alt="Power BI">
     </td>
-    <td valign="top" align="center">
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"><br>
-      <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-      <img src="https://shields.io" alt="Scikit-learn"><br>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-      <img src="https://shields.io" alt="Power BI"><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  </tr>
+  <tr>
+    <th width="50%" align="center">Frontend</th>
+    <th width="50%" align="center">Tools & Environment</th>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://shields.io" alt="React">
+      <img src="https://shields.io" alt="TypeScript">
+      <img src="https://shields.io" alt="JavaScript">
+      <img src="https://shields.io" alt="HTML5">
+      <img src="https://shields.io" alt="CSS3">
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://shields.io" alt="Git">
+      <img src="https://shields.io" alt="Linux">
+      <img src="https://shields.io" alt="Bash">
+      <img src="https://shields.io" alt="Selenium">
     </td>
   </tr>
 </table>
+</div>
 
 <br>
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>⚙️ CSV Download Auto-Processor</h4>
-      <p>Production-ready Python automation pipeline that monitors system directories, validates data integrity using <strong>Pandas</strong>, handles compressed archives, and converts raw CSV exports into structured XLSX reports with fault-tolerant error logging.</p>
-      <p>
-        <code>Python</code> <code>Pandas</code> <code>Automation</code> <code>ETL</code>
-      </p>
-      <a href="https://github.com/Alejog20/download-autoprocessor"><strong>Explore Repository &rarr;</strong></a>
+      <h4>CSV Download Auto-Processor</h4>
+      <p>Python tool that watches the Downloads folder, validates incoming CSV files with Pandas, extracts archives, and converts them into clean XLSX reports with proper error handling.</p>
+      <p><code>Python</code> <code>Pandas</code> <code>Automation</code></p>
+      <a href="https://github.com"><strong>View on GitHub &rarr;</strong></a>
     </td>
     <td width="50%" valign="top">
-      <h4>🛍️ Proyecto Samay — Full Stack Marketplace</h4>
-      <p>Collaborative e-commerce platform dedicated to showcasing and commercializing authentic Colombian indigenous crafts. Engineered with a robust <strong>Java & Spring</strong> backend architecture paired with a responsive Vanilla JS frontend.</p>
-      <p>
-        <code>Java</code> <code>Spring Boot</code> <code>JavaScript</code> <code>REST API</code>
-      </p>
-      <a href="https://github.com/JorgeRamirez2018/Proyecto-Samay"><strong>Explore Repository &rarr;</strong></a>
+      <h4>Proyecto Samay — Full Stack Marketplace</h4>
+      <p>Collaborative e-commerce platform built to connect Colombian indigenous artisans with buyers. Built with a Java and Spring backend and a Vanilla JS frontend.</p>
+      <p><code>Java</code> <code>Spring</code> <code>JavaScript</code></p>
+      <a href="https://github.com"><strong>View on GitHub &rarr;</strong></a>
     </td>
   </tr>
 </table>
 
 <p align="right">
-  <a href="https://garcia-dev.co" target="_blank"><strong>See full case studies & live metrics at garcia-dev.co &rarr;</strong></a>
+  <a href="https://garcia-dev.co" target="_blank">More projects and details at <strong>garcia-dev.co</strong> &rarr;</a>
 </p>
 
 </details>
@@ -104,66 +111,77 @@ I am an analyst and software developer based in Bogotá, Colombia, focused on bu
 ---
 
 <details>
-<summary><strong>🇪🇸 Versión en Español</strong> <em>(Haz clic para desplegar)</em></summary>
+<summary><strong>🇪🇸 Español</strong></summary>
 <br>
 
-### 👨‍💻 Sobre Mí
+### Sobre Mí
 
-Soy analista y desarrollador de software en Bogotá, Colombia, enfocado en construir sistemas backend de alto rendimiento, pipelines de datos y automatización de procesos. Con formación en **Negocios Internacionales** e **Ingeniería de Software**, me especializo en transformar cuellos de botella operativos en código limpio y mantenible, reduciendo horas manuales y asegurando arquitecturas de datos confiables.
+Trabajo en la intersección entre el desarrollo de software y las operaciones de negocio. Con formación en Negocios Internacionales y experiencia en desarrollo backend, me enfoco en automatizar flujos financieros repetitivos, integrar sistemas de datos de clientes y mantener pipelines de reportes confiables.
 
-* **Enfoque Principal:** Automatización con Python, APIs RESTful, Pipelines ETL y modelos de Machine Learning.
-* **Fuera del Teclado:** Fotógrafo aficionado en actividades al aire libre, amante del cine y dedicado a disfrutar tiempo de calidad en familia.
+* **Enfoque diario:** Automatización en Python, integraciones EDI, APIs REST y modelado de datos con SQL y Pandas.
+* **Fuera del código:** Fotografía, cine y tiempo al aire libre en familia.
 
 <br>
 
-### 🛠️ Stack Tecnológico
+### Stack Tecnológico
 
+<div align="center">
 <table width="100%">
   <tr>
-    <th width="33%" align="center">Backend y APIs</th>
-    <th width="33%" align="center">Frontend</th>
-    <th width="34%" align="center">Datos, ML y Plataformas</th>
+    <th width="50%" align="center">Backend y APIs</th>
+    <th width="50%" align="center">Datos y Analítica</th>
   </tr>
   <tr>
-    <td valign="top" align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"><br>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"><br>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"><br>
-      <img src="https://shields.io" alt="Spring Boot"><br>
+    <td align="center" valign="middle">
+      <img src="https://shields.io" alt="Python">
+      <img src="https://shields.io" alt="Java">
+      <img src="https://shields.io" alt="FastAPI">
+      <img src="https://shields.io" alt="Spring Boot">
       <img src="https://shields.io" alt="Flask">
     </td>
-    <td valign="top" align="center">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"><br>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"><br>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"><br>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <td align="center" valign="middle">
+      <img src="https://shields.io" alt="Pandas">
+      <img src="https://shields.io" alt="NumPy">
+      <img src="https://shields.io" alt="SQL">
+      <img src="https://shields.io" alt="Scikit-learn">
+      <img src="https://shields.io" alt="PyTorch">
+      <img src="https://shields.io" alt="Power BI">
     </td>
-    <td valign="top" align="center">
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"><br>
-      <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-      <img src="https://shields.io" alt="Scikit-learn"><br>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-      <img src="https://shields.io" alt="Power BI"><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  </tr>
+  <tr>
+    <th width="50%" align="center">Frontend</th>
+    <th width="50%" align="center">Herramientas y Entorno</th>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://shields.io" alt="React">
+      <img src="https://shields.io" alt="TypeScript">
+      <img src="https://shields.io" alt="JavaScript">
+      <img src="https://shields.io" alt="HTML5">
+      <img src="https://shields.io" alt="CSS3">
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://shields.io" alt="Git">
+      <img src="https://shields.io" alt="Linux">
+      <img src="https://shields.io" alt="Bash">
+      <img src="https://shields.io" alt="Selenium">
     </td>
   </tr>
 </table>
+</div>
 
 <br>
 
-### 🚀 Proyectos Destacados
+### Proyectos Destacados
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>⚙️ Procesador Automático de Archivos CSV</h4>
-      <p>Pipeline de automatización en Python listo para producción que monitorea directorios, valida la integridad de datos con <strong>Pandas</strong>, gestiona archivos comprimidos y transforma reportes CSV en archivos XLSX estructurados con manejo robusto de errores.</p>
-      <p>
-        <code>Python</code> <code>Pandas</code> <code>Automatización</code> <code>ETL</code>
-      </p>
-      <a href="https://github.com/Alejog20/download-autoprocessor"><strong>Ver Repositorio &rarr;</strong></a>
+      <h4>Procesador Automático de Archivos CSV</h4>
+      <p>Herramienta en Python que monitorea la carpeta de Descargas, valida archivos CSV con Pandas, extrae comprimidos y los convierte en reportes XLSX limpios con manejo de errores.</p>
+      <p><code>Python</code> <code>Pandas</code> <code>Automatización</code></p>
+      <a href="https://github.com"><strong>Ver en GitHub &rarr;</strong></a>
     </td>
     <td width="50%" valign="top">
+      <h4>Proyecto Samay — Marketplace Full Stack</h4>
+      <p>Plataforma colaborativa de comercio electrónico enfocada en productos de comunidades indígenas de Colombia. Desarrollada con backend en Java y Spring y frontend en Vanilla JS.</p>
