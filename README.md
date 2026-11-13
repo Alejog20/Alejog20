@@ -6,15 +6,9 @@
 Backend developer and data analyst based in Bogotá. I build Python automation, APIs, and data pipelines that cut manual work and keep reporting reliable.
 
 <p>
-  <a href="https://garcia-dev.co" target="_blank">
-    <img src="https://shields.io" alt="Portfolio">
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn">
-  </a>
-  <a href="mailto:garciaalejandro2552@gmail.com">
-    <img src="https://shields.io" alt="Email">
-  </a>
+  <a href="https://garcia-dev.co"><strong>🌐 garcia-dev.co</strong></a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com"><strong>LinkedIn</strong></a> &nbsp;·&nbsp;
+  <a href="mailto:garciaalejandro2552@gmail.com"><strong>garciaalejandro2552@gmail.com</strong></a>
 </p>
 
 </div>
@@ -36,18 +30,17 @@ I work at the intersection of software development and business operations. With
 
 ### Technical Toolkit
 
-<div align="center">
 <table width="100%">
   <tr>
     <th width="50%" align="center">Backend & APIs</th>
     <th width="50%" align="center">Data & Analytics</th>
   </tr>
   <tr>
-    <td align="center" valign="middle">
-      <img src="https://skillicons.dev" alt="Backend & APIs" />
+    <td align="center">
+      <kbd>Python</kbd> &nbsp; <kbd>Java</kbd> &nbsp; <kbd>FastAPI</kbd> &nbsp; <kbd>Spring Boot</kbd> &nbsp; <kbd>Flask</kbd>
     </td>
-    <td align="center" valign="middle">
-      <img src="https://skillicons.dev" alt="Data & Analytics" />
+    <td align="center">
+      <kbd>Pandas</kbd> &nbsp; <kbd>NumPy</kbd> &nbsp; <kbd>SQL</kbd> &nbsp; <kbd>Scikit-learn</kbd> &nbsp; <kbd>PyTorch</kbd> &nbsp; <kbd>Power BI</kbd>
     </td>
   </tr>
   <tr>
@@ -55,16 +48,14 @@ I work at the intersection of software development and business operations. With
     <th width="50%" align="center">Tools & Environment</th>
   </tr>
   <tr>
-    <td align="center" valign="middle">
-      <img src="https://skillicons.dev" alt="Frontend" />
+    <td align="center">
+      <kbd>React</kbd> &nbsp; <kbd>TypeScript</kbd> &nbsp; <kbd>JavaScript</kbd> &nbsp; <kbd>HTML5</kbd> &nbsp; <kbd>CSS3</kbd>
     </td>
-    <td align="center" valign="middle">
-      <img src="https://skillicons.dev" alt="Tools & Environment" />
+    <td align="center">
+      <kbd>Git</kbd> &nbsp; <kbd>Linux</kbd> &nbsp; <kbd>Bash</kbd> &nbsp; <kbd>Selenium</kbd>
     </td>
   </tr>
 </table>
-</div>
-
 
 <br>
 
@@ -88,7 +79,7 @@ I work at the intersection of software development and business operations. With
 </table>
 
 <p align="right">
-  <a href="https://garcia-dev.co" target="_blank">More projects and details at <strong>garcia-dev.co</strong> &rarr;</a>
+  <a href="https://garcia-dev.co">More projects and details at <strong>garcia-dev.co</strong> &rarr;</a>
 </p>
 
 </details>
@@ -110,27 +101,17 @@ Trabajo en la intersección entre el desarrollo de software y las operaciones de
 
 ### Stack Tecnológico
 
-<div align="center">
 <table width="100%">
   <tr>
     <th width="50%" align="center">Backend y APIs</th>
     <th width="50%" align="center">Datos y Analítica</th>
   </tr>
   <tr>
-    <td align="center" valign="middle">
-      <img src="https://shields.io" alt="Python">
-      <img src="https://shields.io" alt="Java">
-      <img src="https://shields.io" alt="FastAPI">
-      <img src="https://shields.io" alt="Spring Boot">
-      <img src="https://shields.io" alt="Flask">
+    <td align="center">
+      <kbd>Python</kbd> &nbsp; <kbd>Java</kbd> &nbsp; <kbd>FastAPI</kbd> &nbsp; <kbd>Spring Boot</kbd> &nbsp; <kbd>Flask</kbd>
     </td>
-    <td align="center" valign="middle">
-      <img src="https://shields.io" alt="Pandas">
-      <img src="https://shields.io" alt="NumPy">
-      <img src="https://shields.io" alt="SQL">
-      <img src="https://shields.io" alt="Scikit-learn">
-      <img src="https://shields.io" alt="PyTorch">
-      <img src="https://shields.io" alt="Power BI">
+    <td align="center">
+      <kbd>Pandas</kbd> &nbsp; <kbd>NumPy</kbd> &nbsp; <kbd>SQL</kbd> &nbsp; <kbd>Scikit-learn</kbd> &nbsp; <kbd>PyTorch</kbd> &nbsp; <kbd>Power BI</kbd>
     </td>
   </tr>
   <tr>
@@ -138,22 +119,14 @@ Trabajo en la intersección entre el desarrollo de software y las operaciones de
     <th width="50%" align="center">Herramientas y Entorno</th>
   </tr>
   <tr>
-    <td align="center" valign="middle">
-      <img src="https://shields.io" alt="React">
-      <img src="https://shields.io" alt="TypeScript">
-      <img src="https://shields.io" alt="JavaScript">
-      <img src="https://shields.io" alt="HTML5">
-      <img src="https://shields.io" alt="CSS3">
+    <td align="center">
+      <kbd>React</kbd> &nbsp; <kbd>TypeScript</kbd> &nbsp; <kbd>JavaScript</kbd> &nbsp; <kbd>HTML5</kbd> &nbsp; <kbd>CSS3</kbd>
     </td>
-    <td align="center" valign="middle">
-      <img src="https://shields.io" alt="Git">
-      <img src="https://shields.io" alt="Linux">
-      <img src="https://shields.io" alt="Bash">
-      <img src="https://shields.io" alt="Selenium">
+    <td align="center">
+      <kbd>Git</kbd> &nbsp; <kbd>Linux</kbd> &nbsp; <kbd>Bash</kbd> &nbsp; <kbd>Selenium</kbd>
     </td>
   </tr>
 </table>
-</div>
 
 <br>
 
@@ -170,3 +143,33 @@ Trabajo en la intersección entre el desarrollo de software y las operaciones de
     <td width="50%" valign="top">
       <h4>Proyecto Samay — Marketplace Full Stack</h4>
       <p>Plataforma colaborativa de comercio electrónico enfocada en productos de comunidades indígenas de Colombia. Desarrollada con backend en Java y Spring y frontend en Vanilla JS.</p>
+      <p><code>Java</code> <code>Spring</code> <code>JavaScript</code></p>
+      <a href="https://github.com"><strong>Ver en GitHub &rarr;</strong></a>
+    </td>
+  </tr>
+</table>
+
+<p align="right">
+  <a href="https://garcia-dev.co">Más proyectos y detalles en <strong>garcia-dev.co</strong> &rarr;</a>
+</p>
+
+</details>
+
+---
+
+### GitHub Statistics
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center" valign="middle">
+        <img src="profile-summary-card-output/transparent/0-profile-details.svg" alt="Alejandro's GitHub Stats">
+      </td>
+      <td width="50%" align="center" valign="middle">
+        <img src="https://demolab.com" alt="Alejandro's Contribution Streak">
+      </td>
+    </tr>
+  </table>
+  <br>
+  <img src="profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Top Languages">
+</div>
