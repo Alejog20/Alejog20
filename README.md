@@ -101,32 +101,23 @@ Trabajo en la intersección entre el desarrollo de software y las operaciones de
 
 ### Stack Tecnológico
 
-<table width="100%">
-  <tr>
-    <th width="50%" align="center">Backend y APIs</th>
-    <th width="50%" align="center">Datos y Analítica</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <kbd>Python</kbd> &nbsp; <kbd>Java</kbd> &nbsp; <kbd>FastAPI</kbd> &nbsp; <kbd>Spring Boot</kbd> &nbsp; <kbd>Flask</kbd>
-    </td>
-    <td align="center">
-      <kbd>Pandas</kbd> &nbsp; <kbd>NumPy</kbd> &nbsp; <kbd>SQL</kbd> &nbsp; <kbd>Scikit-learn</kbd> &nbsp; <kbd>PyTorch</kbd> &nbsp; <kbd>Power BI</kbd>
-    </td>
-  </tr>
-  <tr>
-    <th width="50%" align="center">Frontend</th>
-    <th width="50%" align="center">Herramientas y Entorno</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <kbd>React</kbd> &nbsp; <kbd>TypeScript</kbd> &nbsp; <kbd>JavaScript</kbd> &nbsp; <kbd>HTML5</kbd> &nbsp; <kbd>CSS3</kbd>
-    </td>
-    <td align="center">
-      <kbd>Git</kbd> &nbsp; <kbd>Linux</kbd> &nbsp; <kbd>Bash</kbd> &nbsp; <kbd>Selenium</kbd>
-    </td>
-  </tr>
-</table>
+### GitHub Statistics
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center" valign="middle">
+        <img src="profile-summary-card-output/transparent/0-profile-details.svg" alt="Alejandro's GitHub Profile Details">
+      </td>
+      <td width="50%" align="center" valign="middle">
+        <img src="profile-summary-card-output/transparent/3-stats.svg" alt="Alejandro's GitHub Stats">
+      </td>
+    </tr>
+  </table>
+  <br>
+  <img src="profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Top Languages by Repo">
+</div>
+
 
 <br>
 
